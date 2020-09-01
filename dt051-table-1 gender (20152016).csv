@@ -1,0 +1,19 @@
+﻿﻿Title:,"Table 1 - HE student enrolments by HE provider"
+Subtitle:,"Academic years 2014/15 to 2018/19"
+Reference ID:,DT051 Table 1
+Data source:,HESA
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-1
+Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv
+Licence:,Creative Commons Attribution 4.0 International Licence
+Date:,2020
+Filters:,Country of HE provider,All 
+,Region of HE provider,All 
+,First year marker,All 
+,Level of study,All 
+,Mode of study,All 
+,Academic year,2015/16 
+Search:,durham
+
+
+"UKPRN","HE provider","Female","Male","Other","Total"
+"10007143","University of Durham","9,600","8,210","0","17,810"
